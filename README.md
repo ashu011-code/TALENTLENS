@@ -28,7 +28,7 @@ Gives actionable improvement suggestions per resume
 
 🚀 Quick Start
 
-git clone https://github.com/your-username/talentlens.git
+git clone https://github.com/ashu011-code/TALENTLENS/blob/main/main.py
 cd talentlens
 pip install -r requirements.txt
 python app.py --resume resume.pdf --jd job_description.txt
